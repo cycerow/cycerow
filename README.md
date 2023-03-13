@@ -5,7 +5,8 @@
 - 🔭 Atualmente estou me especializando em Data Science e Analytics pela USP.
 - 🔭 Integrante do instituto I2A2 - AI aplicada a indústria.
 - 🌱 Estou aprendendo, Estatística | Python e R | Processamento de dados | Machine Learning | Integração dados com a sistemas de automação industriais.
-- 👯 Estou a procura de oportunidade para desenvolvimento de minhas skill na área de dados.
+- 👯 Estou a procura de oportunidade para desenvolvimento de minhas skill na área de dados. 
+<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silva-cicero/)
 [![LGmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cycerow@gmail.com)
