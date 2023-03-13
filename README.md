@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Cicero Silva</h1> 
+<h1 align="center">Olá 👋🏿, sou Cicero Silva</h1> 
 
 
 - 👷 Formado em engenharia mecatrônica.
