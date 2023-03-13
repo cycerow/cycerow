@@ -6,6 +6,8 @@
 - 🔭 Integrante do instituto I2A2 - AI aplicada a indústria.
 - 🌱 Estou aprendendo, Estatística | Python e R | Processamento de dados | Machine Learning | Integração dados com a sistemas de automação industriais.
 - 👯 Estou a procura de oportunidade para desenvolvimento de minhas skill na área de dados.
+
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/75ez.gif"/>
 <!--
 **cycerow/cycerow** is a ✨_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
