@@ -4,7 +4,7 @@
 - 👷 Formado em engenharia mecatrônica.
 - 🔭 Atualmente me especializando em Data Science e Analytics pela USP.
 - 🔭 Integrante do instituto I2A2 - AI aplicada a indústria.
-- 🌱 Adquirindo habilidades em Estatística | Python e R | Processamento e modelagem de dados | Machine Learning | Deploy de modelos | Big Data.
+- 🌱 Adquirindo habilidades em Estatística | Python e R | Processamento e modelagem de dados | Machine Learning | Deploy de modelos | Big Data | Power BI |
 - 👯 Estou a procura de oportunidade para desenvolvimento de minhas skill na área de dados. 
 <br/>
 
