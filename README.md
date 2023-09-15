@@ -4,8 +4,8 @@
 - 👷 Formado em engenharia mecatrônica.
 - 🔭 Atualmente me especializando em Data Science e Analytics pela USP.
 - 🔭 Integrante do instituto I2A2 - AI aplicada a indústria.
-- 🌱 Adquirindo habilidades em Estatística | Python e R | Processamento e modelagem de dados | Machine Learning | Deploy de modelos | Big Data | Power BI |
-- 👯 Estou a procura de oportunidade para desenvolvimento de minhas skill na área de dados. 
+- 🌱 Habilidades em Estatística | Power BI | Python e R | Machine Learning |
+   
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silva-cicero/)
