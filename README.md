@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋🏿, sou Cicero Silva</h1> 
 
+- 🎓 Formado em Engenharia Mecatrônica.
+- 🎓 Especialista em Data Science e Analytics pela USP.
+- 📚 Habilidades: Estatística | Power BI | Python | Ciência de dados | Machine Learning | Análise de Dados | Modelagem Preditiva
 
-- 👷  Formado em engenharia mecatrônica.
-- 🔭 Especialista em Data Science e Analytics pela USP.
-- 🌱 Habilidades em Estatística | Power BI | Python e R | Machine Learning |
-  
 <br/>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silva-cicero/)
 [![LGmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cycerow@gmail.com)
