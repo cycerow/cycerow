@@ -2,8 +2,7 @@
 
 
 - 👷 Formado em engenharia mecatrônica.
-- 🔭 Atualmente me especializando em Data Science e Analytics pela USP.
-- 🔭 Integrante do instituto I2A2 - AI aplicada a indústria.
+- 🔭 Especialista em Data Science e Analytics pela USP.
 - 🌱 Habilidades em Estatística | Power BI | Python e R | Machine Learning |
    
 <br/>
