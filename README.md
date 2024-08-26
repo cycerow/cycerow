@@ -2,8 +2,8 @@
 
 
 ## Perfil
-- 🎓 Formado em Engenharia Mecatrônica.
-- 🎓 Especialista em Data Science e Analytics pela USP.
+- 🎓 Formado em Engenharia Mecatrônica
+- 🎓 Especialista em Data Science e Analytics pela USP
 - 📚 Habilidades: Estatística | Power BI | Python | Ciência de dados | Machine Learning | Análise de Dados | Modelagem Preditiva
 
 
