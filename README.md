@@ -1,15 +1,10 @@
 <h1 align="center">Olá 👋🏿, sou Cicero Silva</h1> 
 
+
+## Perfil
 - 🎓 Formado em Engenharia Mecatrônica.
 - 🎓 Especialista em Data Science e Analytics pela USP.
 - 📚 Habilidades: Estatística | Power BI | Python | Ciência de dados | Machine Learning | Análise de Dados | Modelagem Preditiva
-
-<br/>
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silva-cicero/)
-[![Linkedin]([https://davidsuescunpelegay.github.io/instagram-logo/](https://img.icons8.com/?size=100&id=12599&format=png&color=000000))](https://www.instagram.com/cycerow/)
-[![LGmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cycerow@gmail.com)
 
 
 ## Tecnologias que eu uso
@@ -19,6 +14,18 @@
     <img align="center" alt="html5"  src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"  />
     <img align="center" alt="html5"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  />
     <img align="center" alt="html5"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  />
-
-
 </div>
+
+## Redes Sociais
+
+<a href="https://www.linkedin.com/in/silva-cicero/">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" width="50" height="40">
+</a>
+
+<a href="https://www.instagram.com/cycerow/">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" width="45" height="40">
+</a>
+
+<a href="mailto:cycerow@gmail.com">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" width="45" height="40">
+</a>
